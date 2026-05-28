@@ -1,10 +1,11 @@
-Bei diesem Workshop schauen wir uns an, was unterschiedliche Länder ausmacht und bauen eine gemeinsame Weltkarte in Scratch.
-Dabei programmiert ihr eine Beschreibung für ein Land, das ihr euch aussuchen könnt. Am Ende wird alles zusammengefügt.
+In diesem Workshop wirst du zum digitalen Schöpfer. Mit der Programmiersprache JavaScript und der Plattform OpenProcessing erwecken wir deinen ganz persönlichen Roboter-Avatar zum Leben.
 
-Gut geeignet, wenn du Anfänger bist oder Lust hast Scratch zu vertiefen.
+Gemeinsam schauen wir uns an, wie man aus geometrischen Formen, coolen Farben und ein bisschen Code-Magie einzigartige Roboter-Gesichter bastelt. Das Beste daran? Du lernst ganz nebenbei die Grundlagen des Programmierens!
+
+Du brauchst keine Programmier-Erfahrung! Wenn du schon mal Scratch ausprobiert hast, ist das super, aber unsere Mentor:innen helfen dir bei jedem Schritt.
 
 Das brauchst du:
-Ein Gerät zum Programmieren (z.B. Laptop). Falls du keins hast, buche ein Computer-Zusatzprodukt oder schreib uns. Wir finden eine Lösung!
+Ein Laptop zum Programmieren. Falls du keins hast, buche ein Computer-Zusatzprodukt oder schreib uns. Wir finden eine Lösung!
 Papier und Stifte für deine Designs und Notizen.
 
 Falls du unter 13 Jahren alt bist: Eine:n Erziehungsberechtigte:n, die oder der dich während des Dojos begleitet. Die erziehungsberechtigte Person braucht ebenfalls ein eigenes Ticket. Falls es die von eurer Familie benötigte Kombination an Tickets nicht mehr gibt, schreib uns einfach und wir schauen ob wir eine Lösung finden.
