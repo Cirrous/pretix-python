@@ -1,0 +1,23 @@
+In diesem Workshop erwecken wir den Raspberry Pi zum Leben!
+Mit dem Sense Hat lernst du, wie man eigene Pixel-Animationen, blinkende Muster und lustige Icons programmiert.
+Schritt für Schritt zeigen wir dir, wie du mit der Programmiersprache Python die bunten Lichter steuerst und deine eigenen Ideen auf dem Display zum Leuchten bringst.
+
+Vorkenntnisse sind nicht zwingend nötig – aber wenn du schon ein bisschen Erfahrung mit Scratch oder Python hast, ist das super.
+Unsere Mentor:innen unterstützen dich bei jedem Schritt!
+
+Neugierig? Dann komm vorbei und werde zum Pixel-Künstler!
+
+Empfohlen für Kinder zwischen 9 und 17 Jahren.
+
+### Das brauchst du:
+* Ein Laptop zum Programmieren. Falls du keins hast, buche ein Computer-Zusatzprodukt oder schreib uns. Wir finden eine Lösung!
+
+Falls du unter 13 Jahren alt bist: Eine:n Erziehungsberechtigte:n, die oder der dich während des Dojos begleitet. Die erziehungsberechtigte Person braucht ebenfalls ein eigenes Ticket. Falls es die von eurer Familie benötigte Kombination an Tickets nicht mehr gibt, schreib uns einfach und wir schauen ob wir eine Lösung finden.
+
+### Barrierefreiheit
+Alle Bereiche der Mittelpunktbibliothek Treptow können Menschen mit eingeschränkter Beweglichkeit erreichen. Eine Blindenleisystem existiert nicht. Türen sind manchmal schwerfällig.
+Wir bieten unsere Workshops in der Regel auf Deutsch an (gesprochen und geschrieben). Fast alle Mentor:innen sprechen darüber hinaus Englisch.
+Bei Bedarf an weiteren Sprachen (z.B. Russisch, Arabisch) oder weiterer Unterstützung (z.B. Screenreader), gebt uns Bescheid. Wir versuchen, allen den Zugang zu unseren Workshops zu ermöglichen.
+
+### Verpflegung
+Wer möchte kann auch sehr gerne etwas kleines zu Essen/Trinken mitbringen. Wir versuchen immer ein kleines Buffet zu ermöglichen.
